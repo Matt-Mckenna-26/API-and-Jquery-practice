@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding:0;
+}
+#pokedex{
+    display: none;
+    height : 580px;
+    width: 400px;
+    border: 20px solid red;
+    font-size: 30px;
+    float: right;
+}
+    #pokedex h3{
+        margin-top: 25px;
+        margin-left: 25px;
+    }
+    #pokedex img{
+        height: 287px;
+        margin-left: 55px;
+        margin-top:-65px;
+        margin-bottom: -70px;
+    }
+    #pokedex h1 {
+        text-align: center;
+    }
